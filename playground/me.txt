@@ -1,0 +1,5 @@
+{{#user}}
+Name: Raj Ragahv Singh
+Skills: HTML, CSS, JS, Next.js, React.js, Java
+Email: raghavsingh47336@gmail.com
+{{/user}}
